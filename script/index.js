@@ -64,7 +64,7 @@ function handelKeyboardButtonPress(event) {
 
 }
 
-document.addEventListener('keyup', 'click', handelKeyboardButtonPress)
+document.addEventListener('keyup',handelKeyboardButtonPress)
 
 
 function continueGame() {
